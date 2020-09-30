@@ -21,3 +21,7 @@ there is an occupation-based disambiguation.
 
 Q: Which year had the most people and how many people did it have?  
 A: 
+
+**Note**: I have `cmlimit` set to 10 so you can test your code. It can be set as high as 500, 
+as the [documentation](https://www.mediawiki.org/wiki/API:Categorymembers) 
+mentions. You should probably crank it up when you go for your "final" pull. 
