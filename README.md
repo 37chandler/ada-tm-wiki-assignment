@@ -3,7 +3,8 @@
 In the Wikipedia exercise, you explored how to pull all the people off Wikipedia born within a given year. 
 This assignment extends that, to generate a data set with Wikipedia people who were born in a wide range of years. 
 
-Last year we had an interesting discussion about Wikipedia fame, based on an analysis from Stephens-Davidowitz's book, 
+In a previous version of this class we had an interesting discussion about Wikipedia fame, 
+based on an analysis from Stephens-Davidowitz's book, 
 _Everybody Lies_. The question we asked was this: are younger people more likely to be "Wikipedia Famous" 
 (i.e., *on* Wikipedia)? Why might this be true? Why might it be false? 
 
